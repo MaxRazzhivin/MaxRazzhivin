@@ -77,7 +77,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
   <img src="images/AllureTestOps.png" width="40" height="40"  alt="AllureTestOps" title='AllureTestOps'"/>&nbsp
   <img src="images/Allure_Report.png" width="40" height="40"  alt="Allure_Report" title="Allure_Report"/>&nbsp
-  <img src="images/Appium.png" width="40" height="40"  alt="Appium" title="Appium"/>&nbsp
+  <img src="images/appium.png" width="40" height="40"  alt="appium" title="appium"/>&nbsp
   <img src="images/browserstack.png" width="40" height="40"  alt="browserstack" title="browserstack"/>&nbsp
   <img src="images/selene.png" width="40" height="40"  alt="selene" title="selene"/>&nbsp
   <img src="images/selenoid.png" width="40" height="40"  alt="selenoid" title="selenoid"/>&nbsp
