@@ -2,22 +2,6 @@
 <br>QA engineer and AQA (soon i'm hope) 😄
 <br>Experience in manual QA since 2022
 <br>Learning Automation QA since 2024
-<br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest
-<br>Experience with Python, HMTL/CSS. Base SQL knowledge.
-
-## 📊 Statistics
-
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxRazzhivin)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxRazzhivin)
-
-<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
-
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxRazzhivin)
-
-<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
-
-<br>
 
 ## Autotests
 <div>
@@ -83,6 +67,20 @@
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
+
+## 📊 Statistics
+
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxRazzhivin)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxRazzhivin)
+
+<!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
+<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
+
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=MaxRazzhivin)
+
+<!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
+
+<br>
 
 
 <!--  Contacts section -->
