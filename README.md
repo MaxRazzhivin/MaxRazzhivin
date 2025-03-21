@@ -85,6 +85,10 @@
   
 </div>
 
+<!--  Contacts section -->
+## :anchor: Contact me :) 
+<code><a href="https://t.me/maxnvo89"><img src="images/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
+<code><a href="mailto:max.nvo06@gmail.com" target="blank"><img src="images/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
 
 Here are some ideas to get you started:
 
