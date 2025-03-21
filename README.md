@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/maxnvo89" target="_blank">Max</a> :vulcan_salute: </h1>
-<br>QA engineer at <a href="https://urent.ru/" target="_blank">MTS Urent</a> and AQA (soon i'm hope) 😄
+<br>QA engineer at <a href="https://urent.ru/" target="_blank">MTS Urent</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" and AQA (soon i'm hope) 😄
 <br>Experience in manual QA since 2022
 <br>Learning Automation QA since 2024
 <br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest
