@@ -2,6 +2,9 @@
 <br>QA engineer and AQA (soon i'm hope) 😄
 <br>Experience in manual QA since 2022
 <br>Learning Automation QA since 2024
+<br>Experience with frontend test automation frameworks like Selenium, Selene, Selenide, PyTest
+<br>Experience with Mobile Testing - Android and iOS applications
+<br>Experience with Python, HMTL/CSS. Base SQL knowledge.
 
 ## Autotests
 <div>
