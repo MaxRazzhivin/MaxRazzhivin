@@ -22,10 +22,12 @@
 ## Testing of API and integrations
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  
 </div>
 
 ## Testing of Web and Mobile Applications
@@ -50,10 +52,11 @@
 ## Testing documentation
   <div>
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" title="Jira" alt="Jira" width="40" height="40"/>&nbsp
+    <img src="images/confluence.png" width="40" height="40" alt="confluence" title="confluence"/>&nbsp
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-    <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+    
   </div>
 
 ## Work with databases 
@@ -66,12 +69,19 @@
 
 ## Autotests
 <div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="images/request.png" width="40" height="40"  alt="Request" title="Request" width="40" height="40"/>&nbsp
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
+  <img src="images/request.png" width="40" height="40"  alt="Request" title="Request"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
   <img src="images/AllureTestOps.png" width="40" height="40"  alt="AllureTestOps" title='AllureTestOps'"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+  <img src="images/Allure_Report.png" width="40" height="40"  alt="Allure_Report" title="Allure_Report"/>&nbsp
+  <img src="images/Appium.png" width="40" height="40"  alt="Appium" title="Appium"/>&nbsp
+  <img src="images/browserstack.png" width="40" height="40"  alt="browserstack" title="browserstack"/>&nbsp
+  <img src="images/selene.png" width="40" height="40"  alt="selene" title="selene"/>&nbsp
+  <img src="images/selenoid.png" width="40" height="40"  alt="selenoid" title="selenoid"/>&nbsp
+  
   
 </div>
 
