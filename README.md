@@ -19,6 +19,24 @@
 
 <br>
 
+## Autotests
+<div>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+  <img src="images/request.png" width="40" height="40"  alt="Request" title="Request"/>&nbsp
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
+  <img src="images/AllureTestOps.png" width="40" height="40"  alt="AllureTestOps" title='AllureTestOps'"/>&nbsp
+  <img src="images/Allure_Report.png" width="40" height="40"  alt="Allure_Report" title="Allure_Report"/>&nbsp
+  <img src="images/appium.png" width="40" height="40"  alt="appium" title="appium"/>&nbsp
+  <img src="images/browserstack.png" width="40" height="40"  alt="browserstack" title="browserstack"/>&nbsp
+  <img src="images/selene.png" width="40" height="40"  alt="selene" title="selene"/>&nbsp
+  <img src="images/selenoid.png" width="40" height="40"  alt="selenoid" title="selenoid"/>&nbsp
+  
+  
+</div>
+
 ## Testing of API and integrations
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -67,23 +85,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Autotests
-<div>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="images/request.png" width="40" height="40"  alt="Request" title="Request"/>&nbsp
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp
-  <img src="images/AllureTestOps.png" width="40" height="40"  alt="AllureTestOps" title='AllureTestOps'"/>&nbsp
-  <img src="images/Allure_Report.png" width="40" height="40"  alt="Allure_Report" title="Allure_Report"/>&nbsp
-  <img src="images/appium.png" width="40" height="40"  alt="appium" title="appium"/>&nbsp
-  <img src="images/browserstack.png" width="40" height="40"  alt="browserstack" title="browserstack"/>&nbsp
-  <img src="images/selene.png" width="40" height="40"  alt="selene" title="selene"/>&nbsp
-  <img src="images/selenoid.png" width="40" height="40"  alt="selenoid" title="selenoid"/>&nbsp
-  
-  
-</div>
 
 <!--  Contacts section -->
 ## :anchor: Contact me :) 
