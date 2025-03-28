@@ -73,8 +73,10 @@
 
 ## 📊 Statistics
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxRazzhivin)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxRazzhivin)
+<!--![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxRazzhivin)--> 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=MaxRazzhivin)--> 
+
+![MaxRazzhivin's Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaxRazzhivin&theme=vue) ![MaxRazzhivin's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaxRazzhivin&theme=vue)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
@@ -90,3 +92,10 @@
 ## :anchor: Contact me :) 
 <code><a href="https://t.me/maxnvo89"><img src="images/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:max.nvo06@gmail.com" target="blank"><img src="images/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
+
+
+
+## :four_leaf_clover: My Pet Projects:
+
+#### Python
+* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins)
