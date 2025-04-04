@@ -71,6 +71,11 @@ Experience in manual QA since 2022
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
+## :four_leaf_clover: My Pet Projects:
+
+### Python
+* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins)
+
 ## 📊 Statistics
 
 <!--![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MaxRazzhivin)--> 
@@ -87,15 +92,7 @@ Experience in manual QA since 2022
 
 <br>
 
-
 <!--  Contacts section -->
 ## :anchor: Contact me :) 
 <code><a href="https://t.me/maxnvo89"><img src="images/Telegram.svg" width="40" height="40" title="My Telegram"></a></code>
 <code><a href="mailto:max.nvo06@gmail.com" target="blank"><img src="images/Gmail.svg" height="40" width="40" title="My Gmail"></a></code>
-
-
-
-## :four_leaf_clover: My Pet Projects:
-
-### Python
-* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins)
