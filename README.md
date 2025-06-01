@@ -74,7 +74,7 @@ Experience in manual QA since 2022
 ## :four_leaf_clover: My Pet Projects:
 
 ### Python
-* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins)
+* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins, Mobile Tests, Appium)
 
 ## 📊 Statistics
 
