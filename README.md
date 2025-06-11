@@ -2,7 +2,7 @@
 <br>QA engineer at <a href="https://urent.ru/" target="_blank">MTS Urent</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 Experience in manual QA since 2022
 <br>Automation QA since 2024
-<br>Experience with frontend test automation frameworks like Selenium, Selene, PyTest
+<br>Experience with UI test automation frameworks like Selenium, Selene, PyTest
 <br>Experience with Mobile Testing - Android and iOS applications
 <br>Experience with Python, HMTL/CSS. Base SQL knowledge.
 
