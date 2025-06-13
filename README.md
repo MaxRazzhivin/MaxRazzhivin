@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/maxnvo89" target="_blank">Max</a> :vulcan_salute: </h1>
 <br>QA engineer at <a href="https://urent.ru/" target="_blank">MTS Urent</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
-Experience in manual QA since 2022  <img src="images/Night-Coding.gif">
+Experience in manual QA since 2022
 <br>Automation QA since 2024
 <br>Experience with UI test automation frameworks like Selenium and Selene
 <br>Experience with Mobile Testing - Android and iOS applications
@@ -73,9 +73,7 @@ Experience in manual QA since 2022  <img src="images/Night-Coding.gif">
 </div>
 
 ## :four_leaf_clover: My Pet Projects:
-
-### Python
-* <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins, Mobile Tests, Appium)
+### <a target="_blank" href="https://github.com/MaxRazzhivin/test_project_ivi">Test project to Ivi</a> (Python. UI tests. Allure, Jenkins, Mobile Tests, Appium)
 
 ## 📊 Statistics
 
