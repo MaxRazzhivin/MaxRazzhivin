@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/maxnvo89" target="_blank">Max</a> :vulcan_salute: </h1>
-<br>QA/AQA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
+<br>Fullstack QA engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60">
 Experience in manual QA since 2021
 <br>Automation QA since 2022
 <br>Experience with UI test automation frameworks like Playwright/Selenium/Selene
